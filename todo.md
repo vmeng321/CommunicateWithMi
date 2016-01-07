@@ -2,12 +2,12 @@
 ~~- install Android studio~~
 ~~- do short excercise on making Android apps~~
 - learn how to import libraries to java project in Android studio
-- 
+
 
 ### Project management
 - write up on the components involved in the system (devices, programs, function)
 - diagram of components of system
-- 
+
 
 ###Relavent docs about android development
 - read about android.bluetooth
